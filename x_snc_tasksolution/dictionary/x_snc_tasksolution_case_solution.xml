@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Case Solution" max_length="40" name="x_snc_tasksolution_case_solution" type="collection">
+        <element attributes="encode_utf8=false" label="Case" max_length="32" name="case" reference="sn_customerservice_case" type="reference"/>
+        <element attributes="encode_utf8=false" label="Incident " max_length="32" name="incident" reference="incident" type="reference"/>
+        <element attributes="encode_utf8=false" label="Incident Task" max_length="32" name="incident_task" reference="incident_task" type="reference"/>
+        <element attributes="encode_utf8=false" label="Knowledge Base" max_length="32" name="knowledge_base" reference="kb_knowledge" type="reference"/>
+        <element attributes="encode_utf8=false" label="Task" max_length="32" name="task" reference="sn_customerservice_task" type="reference"/>
+        <index name="index">
+            <element name="task"/>
+        </index>
+        <index name="index2">
+            <element name="incident_task"/>
+        </index>
+        <index name="index3">
+            <element name="knowledge_base"/>
+        </index>
+        <index name="index4">
+            <element name="incident"/>
+        </index>
+        <index name="index5">
+            <element name="case"/>
+        </index>
+    </element>
+</database>

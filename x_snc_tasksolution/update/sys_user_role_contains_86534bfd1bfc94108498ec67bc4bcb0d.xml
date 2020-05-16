@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="tasksolution" name="tasksolution">b9530bfd1bfc94108498ec67bc4bcbfe</contains>
+        <role display_value="x_snc_tasksolution.sn_find_sol" name="x_snc_tasksolution.sn_find_sol">bbee72791bfc94108498ec67bc4bcb0a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>vrijendrakumar.singh@snc</sys_created_by>
+        <sys_created_on>2020-05-16 14:39:32</sys_created_on>
+        <sys_id>86534bfd1bfc94108498ec67bc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tasksolution.x_snc_tasksolution.sn_find_sol</sys_name>
+        <sys_package display_value="TaskSolution" source="x_snc_tasksolution">823efef91bfc94108498ec67bc4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TaskSolution">823efef91bfc94108498ec67bc4bcb68</sys_scope>
+        <sys_update_name>sys_user_role_contains_86534bfd1bfc94108498ec67bc4bcb0d</sys_update_name>
+        <sys_updated_by>vrijendrakumar.singh@snc</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:39:32</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

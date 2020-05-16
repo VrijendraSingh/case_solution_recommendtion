@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">ac530bfd1bfc94108498ec67bc4bcb43</content>
+        <content_attrs/>
+        <content_component display_value="now-uxf-viewport">3f75ec64a40f9432c9168bbda7b997de</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>vrijendrakumar.singh@snc</sys_created_by>
+        <sys_created_on>2020-05-16 14:39:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0530bfd1bfc94108498ec67bc4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TaskSolution" source="x_snc_tasksolution">823efef91bfc94108498ec67bc4bcb68</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="TaskSolution">823efef91bfc94108498ec67bc4bcb68</sys_scope>
+        <sys_update_name>sys_aw_module_e0530bfd1bfc94108498ec67bc4bcb32</sys_update_name>
+        <sys_updated_by>vrijendrakumar.singh@snc</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:39:26</sys_updated_on>
+        <toolbar_button display_value="Home Button">60530bfd1bfc94108498ec67bc4bcb33</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="TaskSolution">0b4387fd1bfc94108498ec67bc4bcb9f</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=e0530bfd1bfc94108498ec67bc4bcb32"/>
+</record_update>

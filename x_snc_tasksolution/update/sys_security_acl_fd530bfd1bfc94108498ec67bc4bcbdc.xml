@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>now.workspace.tasksolution</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>vrijendrakumar.singh@snc</sys_created_by>
+        <sys_created_on>2020-05-16 14:39:31</sys_created_on>
+        <sys_id>fd530bfd1bfc94108498ec67bc4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.workspace.tasksolution</sys_name>
+        <sys_package display_value="TaskSolution" source="x_snc_tasksolution">823efef91bfc94108498ec67bc4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TaskSolution">823efef91bfc94108498ec67bc4bcb68</sys_scope>
+        <sys_update_name>sys_security_acl_fd530bfd1bfc94108498ec67bc4bcbdc</sys_update_name>
+        <sys_updated_by>vrijendrakumar.singh@snc</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:39:31</sys_updated_on>
+        <type display_value="ux_page">b9eb8a1b873303002941b53046cb0b18</type>
+    </sys_security_acl>
+</record_update>

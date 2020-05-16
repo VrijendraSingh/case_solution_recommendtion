@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Case)">0a300b7d1bfc94108498ec67bc4bcbf3</button>
+        <item_parameter display_value="Case description">86300b7d1bfc94108498ec67bc4bcbf1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>vrijendrakumar.singh@snc</sys_created_by>
+        <sys_created_on>2020-05-16 14:25:53</sys_created_on>
+        <sys_id>4a300b7d1bfc94108498ec67bc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>86300b7d1bfc94108498ec67bc4bcbf1</sys_name>
+        <sys_package display_value="TaskSolution" source="x_snc_tasksolution">823efef91bfc94108498ec67bc4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TaskSolution">823efef91bfc94108498ec67bc4bcb68</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4a300b7d1bfc94108498ec67bc4bcbf7</sys_update_name>
+        <sys_updated_by>vrijendrakumar.singh@snc</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:25:53</sys_updated_on>
+        <ui_parameter display_value="Description">4e300b7d1bfc94108498ec67bc4bcbf4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
